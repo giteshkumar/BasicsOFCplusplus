@@ -1,0 +1,11 @@
+Cprogramming 
+c++ programming
+python programming
+Abacus 
+database
+
+
+mysql
+sqlite
+teradata
+oracle
